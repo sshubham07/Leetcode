@@ -35,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sshubham07/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/sshubham07/Leetcode/tree/master/0868-push-dominoes) |
+## String
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/sshubham07/Leetcode/tree/master/0868-push-dominoes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/sshubham07/Leetcode/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
