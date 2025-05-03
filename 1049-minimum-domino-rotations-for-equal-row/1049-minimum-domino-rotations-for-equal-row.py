@@ -1,4 +1,3 @@
-import copy
 class Solution:
     def calc(self,t,b, item):
         count =0
@@ -17,10 +16,8 @@ class Solution:
         for items in bottoms:
             j.add(items)
         for items in i:
-            #t,b = copy.deepcopy(tops),copy.deepcopy(bottoms)
             ans = min(ans,self.calc(tops,bottoms,items))
         for items in j:
-            #t,b = copy.deepcopy(tops),copy.deepcopy(bottoms)
             ans = min(ans,self.calc(bottoms,tops,items))
         if ans == len(tops)+1:
             ans = -1
