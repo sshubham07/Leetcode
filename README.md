@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sshubham07/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/sshubham07/Leetcode/tree/master/1500-count-largest-group) |
+| [3321-type-of-triangle](https://github.com/sshubham07/Leetcode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sshubham07/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Array
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sshubham07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sshubham07/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sshubham07/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/sshubham07/Leetcode/tree/master/3321-type-of-triangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sshubham07/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Sliding Window
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/sshubham07/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/sshubham07/Leetcode/tree/master/3321-type-of-triangle) |
 ## Enumeration
 |  |
 | ------- |
