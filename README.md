@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/sshubham07/Leetcode/tree/master/0868-push-dominoes) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sshubham07/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sshubham07/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/sshubham07/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sshubham07/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sshubham07/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/sshubham07/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sshubham07/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sshubham07/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Matrix
 |  |
 | ------- |
