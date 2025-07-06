@@ -2,6 +2,7 @@ from collections import Counter
 class FindSumPairs:
 
     def __init__(self, nums1: List[int], nums2: List[int]):
+        nums1.sort()
         self.nums1=nums1
         self.nums2=nums2
         self.d=Counter(nums2)
@@ -16,6 +17,8 @@ class FindSumPairs:
     def count(self, tot: int) -> int:
         ans =0
         for i in self.nums1:
+            if i>=tot:
+                break
             ans += self.d.get(tot-i,0)
         return ans
         
