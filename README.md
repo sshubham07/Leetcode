@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1135-customers-who-bought-all-products](https://github.com/sshubham07/Leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1161-project-employees-i](https://github.com/sshubham07/Leetcode/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/sshubham07/Leetcode/tree/master/1179-game-play-analysis-i) |
+| [1268-market-analysis-i](https://github.com/sshubham07/Leetcode/tree/master/1268-market-analysis-i) |
 ## Depth-First Search
 |  |
 | ------- |
