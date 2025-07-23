@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-market-analysis-i](https://github.com/sshubham07/Leetcode/tree/master/1268-market-analysis-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/sshubham07/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/sshubham07/Leetcode/tree/master/1317-monthly-transactions-i) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/sshubham07/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 ## Depth-First Search
 |  |
 | ------- |
