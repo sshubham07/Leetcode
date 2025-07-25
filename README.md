@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-last-person-to-fit-in-the-bus](https://github.com/sshubham07/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1480-movie-rating](https://github.com/sshubham07/Leetcode/tree/master/1480-movie-rating) |
 | [2057-count-salary-categories](https://github.com/sshubham07/Leetcode/tree/master/2057-count-salary-categories) |
+| [2087-confirmation-rate](https://github.com/sshubham07/Leetcode/tree/master/2087-confirmation-rate) |
 ## Depth-First Search
 |  |
 | ------- |
