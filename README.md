@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-movie-rating](https://github.com/sshubham07/Leetcode/tree/master/1480-movie-rating) |
 | [2057-count-salary-categories](https://github.com/sshubham07/Leetcode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/sshubham07/Leetcode/tree/master/2087-confirmation-rate) |
+| [3530-odd-and-even-transactions](https://github.com/sshubham07/Leetcode/tree/master/3530-odd-and-even-transactions) |
 ## Depth-First Search
 |  |
 | ------- |
