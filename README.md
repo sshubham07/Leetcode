@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-confirmation-rate](https://github.com/sshubham07/Leetcode/tree/master/2087-confirmation-rate) |
 | [3530-odd-and-even-transactions](https://github.com/sshubham07/Leetcode/tree/master/3530-odd-and-even-transactions) |
 | [3767-find-students-who-improved](https://github.com/sshubham07/Leetcode/tree/master/3767-find-students-who-improved) |
+| [3816-dna-pattern-recognition](https://github.com/sshubham07/Leetcode/tree/master/3816-dna-pattern-recognition) |
 ## Depth-First Search
 |  |
 | ------- |
