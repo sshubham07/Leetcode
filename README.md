@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/sshubham07/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/sshubham07/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/sshubham07/Leetcode/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/sshubham07/Leetcode/tree/master/0262-trips-and-users) |
 | [0577-employee-bonus](https://github.com/sshubham07/Leetcode/tree/master/0577-employee-bonus) |
 | [0607-sales-person](https://github.com/sshubham07/Leetcode/tree/master/0607-sales-person) |
 | [1135-customers-who-bought-all-products](https://github.com/sshubham07/Leetcode/tree/master/1135-customers-who-bought-all-products) |
