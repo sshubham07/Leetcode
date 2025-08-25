@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sshubham07/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/sshubham07/Leetcode/tree/master/0135-candy) |
+| [0498-diagonal-traverse](https://github.com/sshubham07/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/sshubham07/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sshubham07/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sshubham07/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/sshubham07/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/sshubham07/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sshubham07/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/sshubham07/Leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sshubham07/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/sshubham07/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sshubham07/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Heap (Priority Queue)
 |  |
