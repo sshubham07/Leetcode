@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sshubham07/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sshubham07/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sshubham07/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2429-design-a-food-rating-system](https://github.com/sshubham07/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/sshubham07/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sshubham07/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sshubham07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sshubham07/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sshubham07/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sshubham07/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2429-design-a-food-rating-system](https://github.com/sshubham07/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sshubham07/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/sshubham07/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sshubham07/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sshubham07/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sshubham07/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sshubham07/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-design-a-food-rating-system](https://github.com/sshubham07/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sshubham07/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/sshubham07/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sshubham07/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sshubham07/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/sshubham07/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sshubham07/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/sshubham07/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/sshubham07/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3647-zero-array-transformation-iii](https://github.com/sshubham07/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Database
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sshubham07/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/sshubham07/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Linked List
 |  |
 | ------- |
@@ -328,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/sshubham07/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/sshubham07/Leetcode/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
