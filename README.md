@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sshubham07/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/sshubham07/Leetcode/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sshubham07/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sshubham07/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/sshubham07/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sshubham07/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Sliding Window
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sshubham07/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sshubham07/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sshubham07/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sshubham07/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Prefix Sum
 |  |
 | ------- |
