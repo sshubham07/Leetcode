@@ -1,1 +1,5 @@
-select c.name as Customers from Customers c left join Orders o on c.id = o.customerId where o.customerId is null;
+with cte as
+(
+    select c.name,o.id from Customers c left join Orders o on c.id=o.customerId
+)
+select name as Customers from cte where id is NULL;
