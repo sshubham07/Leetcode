@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/sshubham07/Leetcode/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sshubham07/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sshubham07/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3546-equal-sum-grid-partition-i](https://github.com/sshubham07/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sshubham07/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sshubham07/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sshubham07/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sshubham07/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sshubham07/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3546-equal-sum-grid-partition-i](https://github.com/sshubham07/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sshubham07/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3647-zero-array-transformation-iii](https://github.com/sshubham07/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/sshubham07/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sshubham07/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sshubham07/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/sshubham07/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sshubham07/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sshubham07/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Matrix
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sshubham07/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sshubham07/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/sshubham07/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/sshubham07/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
