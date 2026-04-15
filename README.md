@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/sshubham07/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sshubham07/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sshubham07/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sshubham07/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sshubham07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sshubham07/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sshubham07/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sshubham07/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sshubham07/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/sshubham07/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sshubham07/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sshubham07/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sshubham07/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sshubham07/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
