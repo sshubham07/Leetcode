@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sshubham07/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sshubham07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sshubham07/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3488-closest-equal-element-queries](https://github.com/sshubham07/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sshubham07/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sshubham07/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sshubham07/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/sshubham07/Leetcode/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sshubham07/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sshubham07/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/sshubham07/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sshubham07/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sshubham07/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sshubham07/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sshubham07/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sshubham07/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sshubham07/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3488-closest-equal-element-queries](https://github.com/sshubham07/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sshubham07/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Prefix Sum
 |  |
