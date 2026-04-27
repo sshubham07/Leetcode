@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sshubham07/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sshubham07/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/sshubham07/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sshubham07/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sshubham07/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sshubham07/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sshubham07/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sshubham07/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/sshubham07/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/sshubham07/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sshubham07/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sshubham07/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sshubham07/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sshubham07/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sshubham07/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sshubham07/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/sshubham07/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sshubham07/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sshubham07/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sshubham07/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Union Find
@@ -492,5 +496,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sshubham07/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sshubham07/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
