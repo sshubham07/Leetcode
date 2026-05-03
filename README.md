@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/sshubham07/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/sshubham07/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0756-pyramid-transition-matrix](https://github.com/sshubham07/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0796-rotate-string](https://github.com/sshubham07/Leetcode/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/sshubham07/Leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sshubham07/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sshubham07/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -501,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sshubham07/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sshubham07/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sshubham07/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
