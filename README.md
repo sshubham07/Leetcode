@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sshubham07/Leetcode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/sshubham07/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sshubham07/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sshubham07/Leetcode/tree/master/0342-power-of-four) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/sshubham07/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sshubham07/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/sshubham07/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sshubham07/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/sshubham07/Leetcode/tree/master/0135-candy) |
 | [0396-rotate-function](https://github.com/sshubham07/Leetcode/tree/master/0396-rotate-function) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/sshubham07/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sshubham07/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/sshubham07/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sshubham07/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/sshubham07/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sshubham07/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
