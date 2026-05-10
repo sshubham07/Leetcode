@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sshubham07/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sshubham07/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sshubham07/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sshubham07/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sshubham07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sshubham07/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sshubham07/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sshubham07/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sshubham07/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/sshubham07/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sshubham07/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sshubham07/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sshubham07/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sshubham07/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
