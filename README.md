@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sshubham07/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sshubham07/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/sshubham07/Leetcode/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sshubham07/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/sshubham07/Leetcode/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/sshubham07/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/sshubham07/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sshubham07/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/sshubham07/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sshubham07/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sshubham07/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
