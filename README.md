@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sshubham07/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sshubham07/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sshubham07/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1345-jump-game-iv](https://github.com/sshubham07/Leetcode/tree/master/1345-jump-game-iv) |
 | [1500-count-largest-group](https://github.com/sshubham07/Leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sshubham07/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/sshubham07/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sshubham07/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/sshubham07/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/sshubham07/Leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/sshubham07/Leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sshubham07/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sshubham07/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sshubham07/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/sshubham07/Leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/sshubham07/Leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sshubham07/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sshubham07/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sshubham07/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
