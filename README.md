@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/sshubham07/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/sshubham07/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sshubham07/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sshubham07/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sshubham07/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sshubham07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sshubham07/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sshubham07/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sshubham07/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sshubham07/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sshubham07/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sshubham07/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sshubham07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sshubham07/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/sshubham07/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sshubham07/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sshubham07/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sshubham07/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sshubham07/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sshubham07/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
