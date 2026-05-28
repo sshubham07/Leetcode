@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sshubham07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sshubham07/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sshubham07/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3093-longest-common-suffix-queries](https://github.com/sshubham07/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sshubham07/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/sshubham07/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sshubham07/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sshubham07/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sshubham07/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/sshubham07/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3093-longest-common-suffix-queries](https://github.com/sshubham07/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sshubham07/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/sshubham07/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/sshubham07/Leetcode/tree/master/3396-valid-word) |
@@ -536,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/sshubham07/Leetcode/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/sshubham07/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
