@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sshubham07/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sshubham07/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sshubham07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sshubham07/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sshubham07/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3488-closest-equal-element-queries](https://github.com/sshubham07/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sshubham07/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sshubham07/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sshubham07/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sshubham07/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sshubham07/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sshubham07/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3093-longest-common-suffix-queries](https://github.com/sshubham07/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sshubham07/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/sshubham07/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sshubham07/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sshubham07/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sshubham07/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sshubham07/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sshubham07/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
