@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sshubham07/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sshubham07/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sshubham07/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1331-rank-transform-of-an-array](https://github.com/sshubham07/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/sshubham07/Leetcode/tree/master/1345-jump-game-iv) |
 | [1500-count-largest-group](https://github.com/sshubham07/Leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sshubham07/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sshubham07/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/sshubham07/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/sshubham07/Leetcode/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/sshubham07/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sshubham07/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/sshubham07/Leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sshubham07/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/sshubham07/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/sshubham07/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/sshubham07/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1331-rank-transform-of-an-array](https://github.com/sshubham07/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sshubham07/Leetcode/tree/master/1340-jump-game-v) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sshubham07/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sshubham07/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
