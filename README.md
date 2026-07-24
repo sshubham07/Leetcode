@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/sshubham07/Leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/sshubham07/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/sshubham07/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sshubham07/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sshubham07/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sshubham07/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sshubham07/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sshubham07/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/sshubham07/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sshubham07/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sshubham07/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sshubham07/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sshubham07/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sshubham07/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/sshubham07/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sshubham07/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sshubham07/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sshubham07/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sshubham07/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sshubham07/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sshubham07/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/sshubham07/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sshubham07/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sshubham07/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sshubham07/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sshubham07/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sshubham07/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
