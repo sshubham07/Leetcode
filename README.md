@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/sshubham07/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/sshubham07/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sshubham07/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/sshubham07/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sshubham07/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sshubham07/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sshubham07/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/sshubham07/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sshubham07/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/sshubham07/Leetcode/tree/master/3321-type-of-triangle) |
+| [3536-maximum-product-of-two-digits](https://github.com/sshubham07/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sshubham07/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/sshubham07/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/sshubham07/Leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
