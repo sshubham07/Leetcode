@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sshubham07/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sshubham07/Leetcode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/sshubham07/Leetcode/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sshubham07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/sshubham07/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/sshubham07/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/sshubham07/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/sshubham07/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/sshubham07/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/sshubham07/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sshubham07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sshubham07/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0830-largest-triangle-area](https://github.com/sshubham07/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sshubham07/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sshubham07/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/sshubham07/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sshubham07/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0900-reordered-power-of-2](https://github.com/sshubham07/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/sshubham07/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1331-rank-transform-of-an-array](https://github.com/sshubham07/Leetcode/tree/master/1331-rank-transform-of-an-array) |
