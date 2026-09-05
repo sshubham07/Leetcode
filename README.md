@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sshubham07/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sshubham07/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/sshubham07/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3904-smallest-stable-index-ii](https://github.com/sshubham07/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/sshubham07/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sshubham07/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3647-zero-array-transformation-iii](https://github.com/sshubham07/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3904-smallest-stable-index-ii](https://github.com/sshubham07/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
