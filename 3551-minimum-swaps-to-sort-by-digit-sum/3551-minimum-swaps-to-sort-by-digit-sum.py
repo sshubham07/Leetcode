@@ -18,7 +18,7 @@ class Solution:
                 continue
             cycle = 0
             j=i
-            while not vis[j]:
+            while not vis[j] and temp[j][2]!=j:
                 vis[j]=True
                 cycle+=1
                 j = temp[j][2]
